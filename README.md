@@ -50,6 +50,13 @@ Otwórz: http://127.0.0.1:8000
 - Python 3.9+
 - Biblioteki z `requirements.txt`
 
+## Autor
+
+**Arek** — pseudonim **h5n1** (z czasów IRC, ~2001). Samouk, pisze z AI od
+pomysłu po działające automatyzacje. Deal Collector to bliźniak SoftHunta —
+podejście asynchroniczne (aiohttp) do stalej listy "co dziś za darmo", zamiast
+odwiedzania czterech portali ręcznie.
+
 ## Licencja
 
 MIT — patrz `LICENSE`.
